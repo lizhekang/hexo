@@ -1,6 +1,8 @@
 title: 利用shadowsocks科学上网
 date: 2014-09-30 12:18:25
-categories: 工具
+categories: 
+- 软件
+- 工具
 tags:
 - shadowsocks
 - 科学上网
