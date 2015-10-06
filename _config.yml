@@ -88,3 +88,6 @@ archive_generator:
 
 tag_generator:
   per_page: 10
+
+# Swiftype Search Key
+swiftype_key: mKDZyCsbzTbseS6zpcF7
