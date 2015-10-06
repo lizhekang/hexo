@@ -80,3 +80,4 @@ crashlytics-build.properties
 
 # hexo public
 public
+db.json
