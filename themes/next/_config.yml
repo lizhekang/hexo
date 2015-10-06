@@ -100,7 +100,7 @@ social:
   # 等等
 
 # Duoshuo
-#duoshuo_shortname: dalexli
+duoshuo_shortname: dalexli
 
 # Theme version
 version: 0.4.5.1
