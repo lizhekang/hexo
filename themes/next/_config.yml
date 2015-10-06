@@ -36,7 +36,7 @@ mathjax:
 
 
 # Schemes
-#scheme: Mist
+scheme: Mist
 
 
 # Sidebar, available value:
@@ -57,7 +57,7 @@ toc_list_number: true
 
 # Automatically Excerpt
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
 
 # Use Lato font
@@ -67,6 +67,7 @@ use_font_lato: true
 # Make duoshuo show UA
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
+#duoshuo_shortname: dalexli
 duoshuo_info:
   ua_enable: true
   admin_enable: false
@@ -96,10 +97,6 @@ since: 2012
 # 社交链接，将在侧栏中显示
 social:
   GitHub: https://github.com/lizhekang
+  Facebook: https://www.facebook.com/lizhekang
   Weibo: http://weibo.com/lizhekang
   # 等等
-
-# 自动摘要
-auto_excerpt:
-  enable: true
-  length: 150
