@@ -7,6 +7,7 @@ tags:
 - hiwifi
 - 路由器
 - 源代码
+- shell
 ---
 
 ## 在极路由上使用drcom

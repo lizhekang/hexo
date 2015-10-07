@@ -5,7 +5,7 @@ tags:
 
 ## 简单粗暴的命令行助手
 
-最近在github上面又发现了一个有趣的项目，项目名叫[https://github.com/nvbn/thefuck](thefuck)。
+最近在github上面又发现了一个有趣的项目，项目名叫[thefuck](https://github.com/nvbn/thefuck)。
 
 ### 她很有趣
 
@@ -21,4 +21,4 @@ tags:
 
 其实这个软件的原理也不复杂，从配置文件可以看出来fuck这个程序拿到了历史记录里最后一条命令，就是上一次打错的命令，在根据一些逻辑判断校正命令。
 
-大家如果有兴趣的话可以上github上面留意这个项目，[https://github.com/nvbn/thefuck](nvbn/thefuck)。
+大家如果有兴趣的话可以上github上面留意这个项目，[nvbn/thefuck](https://github.com/nvbn/thefuck)。
