@@ -74,4 +74,5 @@ sudo ssserver -c /etc/shadowsocks.json
 {% asset_img 100114_2357_Shadowsocks1.png Pic for Shadowsocks GUI %}
 
 ### 下载GUI
+
 本地下载地址：{% asset_link shadowsocks.zip Shadowsocks GUI %}
