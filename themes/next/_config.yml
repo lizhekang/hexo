@@ -102,5 +102,8 @@ social:
 # Duoshuo
 duoshuo_shortname: dalexli
 
+# Tencent analytics
+tencent_analytics: 51496954
+
 # Theme version
 version: 0.4.5.1
