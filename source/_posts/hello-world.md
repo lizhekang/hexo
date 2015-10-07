@@ -36,6 +36,6 @@ $ hexo deploy
 
 More info: [Deployment](http://hexo.io/docs/deployment.html)
 
-### this is a test
+### this is a test!
 
 write something.
