@@ -105,5 +105,8 @@ duoshuo_shortname: dalexli
 # Tencent analytics
 tencent_analytics: 51496954
 
+# Baidu analytics
+baidu_analytics: c19d44a2e83c2aee7bcfed6e60c2423b
+
 # Theme version
 version: 0.4.5.1
