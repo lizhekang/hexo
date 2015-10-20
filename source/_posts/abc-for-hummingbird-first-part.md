@@ -49,4 +49,4 @@ debconf-set-selections
 apt-get update && apt-get -y install oracle-java6-installer 测试是否成功 java -version
 ```
 
-至此，编译服务器已经搭建完成，可以用来编译android镜像了。1
+至此，编译服务器已经搭建完成，可以用来编译android镜像了。
