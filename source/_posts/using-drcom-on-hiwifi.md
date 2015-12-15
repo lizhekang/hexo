@@ -18,7 +18,7 @@ tags:
 
 ### drcom逆向项目
 
-首先提供一个大神逆向出来的吉大drcom客户端C语言代码，项目在GitHub上[https://github.com/ly0/jlu-drcom-client](jlu-drcom-client)。然后参考HiWifi的官方文档，配置好交叉编译环境，然后通过ssh把客户端推到路由器上面。其实理论上到这里就应该结束了。但是在实际使用的时候发现C语言版本的客户端有Bug——下线之后不会重连，搞到我每次都要上去kill进程，蛋疼死了。。。不要问我为什么不用Python版本，因为路由器flash不够大，装不上。
+首先提供一个大神逆向出来的吉大drcom客户端C语言代码，项目在GitHub上[jlu-drcom-client](https://github.com/ly0/jlu-drcom-client)。然后参考HiWifi的官方文档，配置好交叉编译环境，然后通过ssh把客户端推到路由器上面。其实理论上到这里就应该结束了。但是在实际使用的时候发现C语言版本的客户端有Bug——下线之后不会重连，搞到我每次都要上去kill进程，蛋疼死了。。。不要问我为什么不用Python版本，因为路由器flash不够大，装不上。
 
 ### shell脚本
 
